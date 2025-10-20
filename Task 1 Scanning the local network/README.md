@@ -1,4 +1,6 @@
-🔍 Day 1 – Exploring Nmap and Nessus (Port Scanning) Author: Santhosh Kumar Date: 20-10-2025
+🔍 Day 1 – Exploring Nmap and Nessus (Port Scanning) 
+Author: Sravanthi Jinaga 
+Date: 20-10-2025
 
 ✨ Introduction This repository marks the beginning of my hands-on journey into network reconnaissance, focusing on port scanning with both Nmap and Nessus tools.
 The project covers discovering open ports, analyzing running services, and interpreting scan results effectively—critical skills for cybersecurity practitioners.
